@@ -13,7 +13,7 @@ In the official docker-compose.yaml, locate the sandbox image section and replac
 ```
   sandbox:
     # image: langgenius/dify-sandbox:0.2.10
-    image: svcvit/dify-sandbox-py:0.1.2
+    image: svcvit/dify-sandbox-py:0.1.3
 ```
 
 If you prefer to build the image yourself, you can clone this repository and run:

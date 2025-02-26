@@ -13,8 +13,7 @@
 ```
   sandbox:
     # image: langgenius/dify-sandbox:0.2.10
-    image: svcvit/dify-sandbox-py:0.1.2
-    # image: dockerpull.org/svcvit/dify-sandbox-py:0.1.2  #如果你是国内用户，用这个也可以，如果失败，多拉两次
+    image: svcvit/dify-sandbox-py:0.1.3
 ```
 
 如果你不放心，希望自己打包镜像，你可以下载这个仓库，运行下面的代码打包
