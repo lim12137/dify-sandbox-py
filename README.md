@@ -13,7 +13,7 @@ In the official docker-compose.yaml, locate the sandbox image section and replac
 ```
   sandbox:
     # image: langgenius/dify-sandbox:0.2.10
-    image: svcvit/dify-sandbox-py:0.1.3
+    image: svcvit/dify-sandbox-py:0.1.4
 ```
 
 If you prefer to build the image yourself, you can clone this repository and run:
@@ -28,7 +28,7 @@ Python support
 Node.js support
 ![](/images/Xnip2024-11-25_11-31-01.jpg)
 Docker container logs
-![](/images/Xnip2024-12-04_10-15-18.jpg)
+![](/images/Xnip2025-04-28_16-48-48.jpg)
 
 
 ## Notes
